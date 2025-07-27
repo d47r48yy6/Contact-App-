@@ -1,0 +1,37 @@
+name: contact_app
+description: "A new Flutter project."
+
+publish_to: 'none' # This prevents accidental publishing
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Hive local storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # For generating unique contact IDs
+  uuid: ^4.0.0
+
+  # iOS-style icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Code generator for Hive
+  hive_generator: ^2.0.1
+  build_runner: ^2.5.4
+
+  # Recommended linter rules
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
