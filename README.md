@@ -79,8 +79,3 @@ MIT License © 2025 Ayush Yadav
 
 > “Manage your future connections, today.”
 
-```
-
----
-
-```
