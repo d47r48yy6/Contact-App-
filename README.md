@@ -13,23 +13,6 @@
 - ✅ Form validation (non-empty name, valid number, etc.)
 - 💡 Simple, scalable file structure
 
----
-
-## 📁 Project Structure
-
-```
-
-lib/
-├── models/
-│   └── contact.dart        # Hive data model
-├── screens/
-│   ├── home\_screen.dart    # Lists & searches contacts
-│   └── add\_edit\_screen.dart # Add/update contact
-├── widgets/
-│   └── contact\_tile.dart   # Reusable contact card
-└── main.dart               # App entry point
-
-````
 
 ---
 
